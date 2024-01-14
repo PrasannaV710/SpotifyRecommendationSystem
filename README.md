@@ -7,6 +7,8 @@ We built a music recommendation system using the [Spotify Music Streaming Sessio
 - Behaviour Sequence Transformer
 - LightGCN
 
+You can go through our full project report here [Project Report](https://github.com/PrasannaV710/SpotifyRecommendationSystem/blob/main/Report.pdf)
+
 ### Create environment
 ---
 ```
